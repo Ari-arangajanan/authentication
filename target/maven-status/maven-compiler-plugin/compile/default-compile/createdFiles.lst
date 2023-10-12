@@ -1,3 +1,7 @@
+com\ari\AuthenticationAuthorization\model\MyUserDetails.class
+com\ari\AuthenticationAuthorization\model\User.class
+com\ari\AuthenticationAuthorization\UserRepository.class
 com\ari\AuthenticationAuthorization\Controller.class
 com\ari\AuthenticationAuthorization\SecurityConfiguration.class
 com\ari\AuthenticationAuthorization\AuthenticationAuthorizationApplication.class
+com\ari\AuthenticationAuthorization\UserService.class
